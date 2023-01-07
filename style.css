@@ -73,11 +73,6 @@ a:hover {
 .area1 {
   padding-bottom: 50px;
   box-shadow: 5px 5px 10px rgba(26, 25, 25, 0.473);
-  background-image: url(./images/Estúdio-39-Centralizado-1920x700jpg.jpg), radial-gradient(#0F0, #000), repeating-linear-gradient(transparent 0, rgba(0, 0, 0, 0.1) 2.5px, transparent 5px);
-  background-size: cover;
-  background-position: center;
-  background-blend-mode: overlay;
-}
 }
 
 .area2 {
