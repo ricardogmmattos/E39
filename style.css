@@ -55,9 +55,13 @@ a:hover {
 }
 
 #menu a {
-  display: block;
   align-items: center;
   padding: 0.0rem;
+}
+
+
+ul {
+  margin: 0px;
 }
 
 #btn-mobile {
